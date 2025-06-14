@@ -37,7 +37,7 @@ Bienvenid@ a mi proyecto de Deepâ€¯Learning enfocado en predecir si una atracciÃ
 Instala todo con:
 
 ```bash
-pip install -r requirements.txt  # o instala manualmente las libs de arriba
+pip install -r requirements.txt
 ```
 
 ## Selfie de mi red neuronal!! 
