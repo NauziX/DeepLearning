@@ -10,7 +10,7 @@ Bienvenid@ a mi proyecto de Deep Learning enfocado en predecir si una atracci�
 4. **Entrena** un modelo híbrido (CNN + fully connected) usando PyTorch.
 5. **Guarda** los pesos finales en formato `.pt` y `.onnx`.
 
-## Estructura rápida del repo
+## Estructura rápida del repositorio 
 
 ```
 ├── 01_EDA_POI.ipynb          # Exploración de datos
@@ -24,8 +24,9 @@ Bienvenid@ a mi proyecto de Deep Learning enfocado en predecir si una atracci�
 ├── poi_dataset_eng_pre.csv    # Dataset con el target y las feautres preparadas para modelar
 ├── desc_vectors.npy           # ShortDescription Tokenizado
 ├── cat_seqs.npy               # Categorias Embedding Ind 
-├── requirements.txt           # Librerias a usar
-├── Memoria Técnica Final del Proyecto.pdf 
+├── requirements.txt           # Librerias a utilizar
+├── Memoria Técnica Final del Proyecto.pdf
+├── Enunciado_Práctica_DL.pdf  # Objetivos de este proyecto  
 └── README.md                  # Este documento
 
 ```
