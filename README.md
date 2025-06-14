@@ -1,6 +1,6 @@
 # Predicción del Éxito de Atracciones Turísticas
 
-Bienvenido/a a mi proyecto de Deep Learning enfocado en predecir si una atracción turística (POI) generará **bajo, medio o alto engagement**. El reto combina imagenes y datos estructurados para anticipar qué lugares captarán más la atención de los usuarios.
+Bienvenid@ a mi proyecto de Deep Learning enfocado en predecir si una atracción turística (POI) generará **bajo, medio o alto engagement**. El reto combina imagenes y datos estructurados para anticipar qué lugares captarán más la atención de los usuarios.
 
 ## ¿Qué hace este repo?
 
