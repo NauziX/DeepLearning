@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+opencv-python
+Pillow
+scikit-learn
+nltk
+joblib
+torch
+torchvision
+optuna
