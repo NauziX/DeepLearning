@@ -49,5 +49,5 @@ pip install -r requirements.txt  # o instala manualmente las libs de arriba
 
 Nauzet Fenandez Lorenzo – [Nauzet.fdez@gmail.com](mailto\:Nauzet.fdez@gmail.com)
 
-¡Cualquier feedback o PR es bienvenido! ❤️
+¡Cualquier feedback o PR es bienvenido!
 
