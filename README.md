@@ -32,10 +32,10 @@ Instala todo con:
 pip install -r requirements.txt  # o instala manualmente las libs de arriba
 ```
 
-## Cómo lo ejecuto en 2 pasos
+## Selfie de Red Neuronal!! 
 
-1. Abre `04_Training_POI_NN.ipynb` y ejecuta todas las celdas para reproducir el modelo (usa GPU si tienes 😉).
-2. ¿Solo inferencia? Carga `hybridpoi_best.pt` en tu script y pasa la imagen + metadatos del nuevo POI.
+![hybridpoi_best onnx](https://github.com/user-attachments/assets/681346cf-c721-48d2-b840-224e2a8e35c2)
+
 
 ## Autor
 
