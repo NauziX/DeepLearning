@@ -19,7 +19,15 @@ Bienvenido/a a mi proyecto de Deep Learning enfocado en predecir si una atracc
 ├── 04_Training_POI_NN.ipynb   # Entrenamiento del modelo
 ├── hybridpoi_best.pt          # Pesos del modelo (PyTorch)
 ├── hybridpoi_best.onnx        # Versión ONNX del modelo
+├── poi_dataset.csv            # Dataset original
+├── poi_dataset_engagment.csv  # Dataset con el target
+├── poi_dataset_eng_pre.csv    # Dataset con el target y las feautres preparadas para modelar
+├── desc_vectors.npy           # ShortDescription Tokenizado
+├── cat_seqs.npy               # Categorias Embedding Ind 
+├── requirements.txt           # Librerias a usar
+├── Memoria Técnica Final del Proyecto.pdf 
 └── README.md                  # Este documento
+
 ```
 
 ## Requisitos rápidos
@@ -32,7 +40,7 @@ Instala todo con:
 pip install -r requirements.txt  # o instala manualmente las libs de arriba
 ```
 
-## Selfie de Red Neuronal!! 
+## Selfie de mi red neuronal!! 
 
 ![hybridpoi_best onnx](https://github.com/user-attachments/assets/681346cf-c721-48d2-b840-224e2a8e35c2)
 
