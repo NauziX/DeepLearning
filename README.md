@@ -38,6 +38,15 @@ Bienvenid@ a mi proyecto de Deep Learning enfocado en predecir si una atracci�
 - [04\_Training\_POI\_NN.ipynb](/NoteBook/04_Training_POI_NN.ipynb) – Entrenamiento y evaluación del modelo.
 
 
+## Resultados rápidos
+
+| Conjunto      | Accuracy | Macro F1 |
+| ------------- | -------- | -------- |
+| Entrenamiento | **0.86** | 0.85     |
+| Validación    | **0.84** | 0.83     |
+| Test          | **0.86** | 0.86     |
+
+
 ## Requisitos rápidos
 
 - Python >= 3.9
