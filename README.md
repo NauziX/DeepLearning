@@ -30,6 +30,13 @@ Bienvenid@ a mi proyecto de Deep Learning enfocado en predecir si una atracci�
 └── README.md                  # Este documento
 
 ```
+### Navegación directa
+
+- [01\_EDA\_POI.ipynb](01_EDA_POI.ipynb) – Análisis exploratorio.
+- [02\_Target\_Engagement.ipynb](02_Target_Engagement.ipynb) – Definición de la métrica de engagement.
+- [03\_Preprocesado\_POI.ipynb](03_Preprocesado_POI.ipynb) – Preprocesado y generación de features.
+- [04\_Training\_POI\_NN.ipynb](04_Training_POI_NN.ipynb) – Entrenamiento y evaluación del modelo.
+
 
 ## Requisitos rápidos
 
