@@ -38,7 +38,7 @@ Bienvenid@ a mi proyecto de Deep Learning enfocado en predecir si una atracci�
 - [04\_Training\_POI\_NN.ipynb](/NoteBook/04_Training_POI_NN.ipynb) – Entrenamiento y evaluación del modelo.
 
 
-## Resultados rápidos
+## Resultados Resumen:
 
 | Conjunto      | Accuracy | Macro F1 |
 | ------------- | -------- | -------- |
